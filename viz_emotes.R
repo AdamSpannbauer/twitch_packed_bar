@@ -1,3 +1,6 @@
+#download dev version of packed bar plotting library
+devtools::install_github("AdamSpannbauer/rPackedBar")
+
 #read function to clean twitch chat log
 source("helper_scripts/clean_log_func.R")
 
