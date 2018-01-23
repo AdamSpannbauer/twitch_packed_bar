@@ -2,7 +2,7 @@
 
 *this is an example of using a packed barchart to visualize emote usage in a [twitch.tv](https://www.twitch.tv) chat*
 
-*TODO: blog write up with more about process*
+[Blog post](https://adamspannbauer.github.io/2018/01/12/visualizing-emotes-in-twitch-chat-with-a-packed-barchart/) with more on process.
 
 ****
 
